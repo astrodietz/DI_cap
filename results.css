@@ -1,0 +1,17 @@
+p {
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.submit {
+    font-family: Helvetica, sans-serif;
+}
+
+input[type=submit] {
+    font-family: Helvetica, sans-serif;
+}
